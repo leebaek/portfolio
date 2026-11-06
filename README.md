@@ -17,7 +17,7 @@
 | 범위 | 경기도 31개 시군 |
 | 규모 | 1,186,446필지 |
 | 좌표계 | EPSG:5179 (원본 시군별 좌표계가 달라 통일) |
-| 보조 데이터 | 법정동코드csv (https://www.data.go.kr/data/15063424/fileData.do?recommendDataYn=Y&utm_source=chatgpt.com) |
+| 보조 데이터 | 국토교통부 법정동코드 (https://www.data.go.kr/data/15063424/fileData.do?recommendDataYn=Y&utm_source=chatgpt.com) |
 
 
 ## 3. 처리 흐름
